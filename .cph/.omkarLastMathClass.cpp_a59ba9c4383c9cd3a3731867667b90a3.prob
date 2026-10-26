@@ -1,0 +1,1 @@
+{"name":"Local: omkarLastMathClass","url":"/Users/adarshsingh/Desktop/CP31/1300/omkarLastMathClass.cpp","tests":[{"id":1792992039275,"input":"3\n4\n6\n9\n","output":"2 2\n3 3\n3 6\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/adarshsingh/Desktop/CP31/1300/omkarLastMathClass.cpp","group":"local","local":true}
