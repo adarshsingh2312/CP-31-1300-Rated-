@@ -1,0 +1,1 @@
+{"name":"Local: sociallyDistancedSubseq","url":"/Users/adarshsingh/Desktop/CP31/1300/sociallyDistancedSubseq.cpp","tests":[{"id":1793078450207,"input":"2\n3\n3 2 1\n4\n1 3 4 2\n","output":"2\n3 1 \n3\n1 4 2 \n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/adarshsingh/Desktop/CP31/1300/sociallyDistancedSubseq.cpp","group":"local","local":true}
